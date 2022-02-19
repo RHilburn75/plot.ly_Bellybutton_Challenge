@@ -1,5 +1,6 @@
-# plot.ly_Bellybutton_Challenge
-Module 12 
+# Plot.ly_Bellybutton_Challenge
+## Project Overview
+  We were asked to develop an interactive dashboard, displaying information about the the bacteria living in our bellybutton.  With data gathered, we're able to show on our dashboard, using charts, graph's and drop downs, the results of the bacteria found, by demographic and types of bacteria found
 
 
 
