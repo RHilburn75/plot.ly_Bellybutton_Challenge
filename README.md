@@ -8,8 +8,8 @@
 
 ### Software
  - JavaScript
- -Plot.ly
- -HTML /CSS
+ - Plot.ly
+ - HTML /CSS
 
 
 
