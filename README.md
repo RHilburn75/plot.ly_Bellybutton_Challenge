@@ -4,12 +4,12 @@
 
 ## Resorces
 ### Data
-#### Samples.json
+ -Samples.json
 
 ### Software
-#### JavaScript
-#### Plot.ly
-#### HTML /CSS
+ - JavaScript
+ -Plot.ly
+ -HTML /CSS
 
 
 
